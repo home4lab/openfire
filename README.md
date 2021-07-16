@@ -1,4 +1,11 @@
-# openfire
+**HOW TO USE THIS ??**
+
+git clone https://github.com/home4lab/openfire.git
+chmod +x isntall-openfire.sh
+./install-openfire.sh
+
+This script work on ubuntu base
+
 
 **PORT NEEDED BY OPENFIRE**
 
