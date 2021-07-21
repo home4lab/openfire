@@ -2,7 +2,7 @@
 
 git clone https://github.com/home4lab/openfire.git
 
-chmod +x isntall-openfire.sh
+chmod +x install-openfire.sh
 
 ./install-openfire.sh
 
